@@ -1,4 +1,4 @@
-n = 6
+n = 10
 fact = 1
 
 for i in range(1, n + 1):
